@@ -1,6 +1,4 @@
-## Exercise Details
-
-## Exercise Description
+## Details
   This exercise focuses on using Flask in creating a simple blog.
   The data provided for in the blog came from another programming
   exercise, PSE Market Cap Charts, wherein I used Matplotlib.
