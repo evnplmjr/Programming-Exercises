@@ -1,0 +1,3 @@
+## Details
+  The following charts are outputs of the programming exercise, PSE Market Cap Charts.
+  The data used for these images is from the PSE Q2-2020 Financial Reports.
