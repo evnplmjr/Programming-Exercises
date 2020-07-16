@@ -22,4 +22,7 @@ def contact():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run
+    
+# You can sample run the exercise code on your local server
+# You can include (debug=True) to live monitor the code output
